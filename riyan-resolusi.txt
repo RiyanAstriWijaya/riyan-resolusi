@@ -1,7 +1,6 @@
 RIYAN RESOLUSI
-- Konsisten untuk membuat project 1x seminggu
-- Membuat forum diskusi
-- Membuat google sendiri
-- Kolaborasi dengan lebih banyak export
-- Membuat vlog
 - Konsisten Belajar Programing
+- Konsisten untuk membuat project 1x seminggu
+- Kolaborasi dengan lebih banyak export
+- Menjadi Back End Developer
+- Membuat google sendiri
