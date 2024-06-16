@@ -5,4 +5,5 @@ RIYAN RESOLUSI
 - Belajar Back End - Front End
 - Menjadi Back End Developer
 - Mengikuti program magang devisi backEnd
+- Mengikuti program Study Independent devisi backEnd
 - Membuat google sendiri
