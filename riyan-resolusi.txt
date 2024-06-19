@@ -4,4 +4,5 @@ RIYAN RESOLUSI
 - Kolaborasi dengan lebih banyak export
 - Belajar Back End - Front End
 - Menjadi Back End Developer
+- Mengikuti program magang devisi backend
 - Membuat google sendiri
