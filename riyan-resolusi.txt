@@ -3,5 +3,4 @@ RIYAN RESOLUSI
 - Konsisten untuk membuat project 1x seminggu
 - Kolaborasi dengan lebih banyak export
 - Belajar Back End - Front End
-- Menjadi Back End Developer
-- membuat google sendiri 
+- Menjadi Back End Developer 
